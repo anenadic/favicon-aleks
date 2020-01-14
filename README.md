@@ -4,4 +4,4 @@ Font family: Galindo
 
 Font size: 70
 
-![Favicon screenshot]("./Screenshot 2020-01-14 at 13.29.21.png")
+![Favicon screenshot](/favicon-screenshot.png?raw=true)
